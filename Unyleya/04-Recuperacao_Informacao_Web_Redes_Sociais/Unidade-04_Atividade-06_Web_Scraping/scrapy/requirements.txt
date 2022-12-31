@@ -1,4 +1,4 @@
-scrypy
+scrapy
 requests
 pandas
 pip
