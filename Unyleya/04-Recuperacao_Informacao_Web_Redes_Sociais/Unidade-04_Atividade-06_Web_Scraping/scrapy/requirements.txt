@@ -1,0 +1,6 @@
+scrypy
+requests
+pandas
+pip
+setuptools
+unidecode
